@@ -1,7 +1,5 @@
 
-# Budgeto
-![Logo](https://github.com/tejasbadone/budgeto/blob/main/assets/app_icon.png?raw=true)
-
+# Budgett
 
 Budgeto is a money management prototype app that allows users to split their income into customizable categories of "need," "expenses," and "savings." With features like autopay for bills, manual and planning tools for emergency funds and car purchases, Budgeto helps users stay on top of their finances and reach their financial goals.
 
@@ -54,51 +52,7 @@ ___________________________________________________________________
 
 ![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/need%20pay.gif?raw=true)
 
-___________________________________________________________________
 
-
-- **Expenses Category**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/expenses%20pay.gif?raw=true)
-
-___________________________________________________________________
-
-
-- **Savings Category - Manual Investment**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/savings%20-%20manual%20investment.gif?raw=true)
-
-___________________________________________________________________
-
-
-- **Planning - Emergency Funds**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/planning%20-%20emergency%20funds.gif?raw=true)
-
-___________________________________________________________________
-
-
-- **Planning - Car Plan**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/planning%20-%20car%20plan.gif?raw=true)
-
-___________________________________________________________________
-
-
-- **Light Theme**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/light%20theme.gif?raw=true)
-
-___________________________________________________________________
-
-
-- **Dark Theme**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/dark%20theme.gif?raw=true)
-
-
-## Download
-Download apk - https://drive.google.com/file/d/1ND6bVOeYheTLN19f6EMqhVEY8JlVIEhq/view?usp=share_link
 
 
 ## Setup
@@ -124,10 +78,5 @@ Run the following commands from your terminal:
 **Password:** admin123
 
 
-## Note
-Since this is a prototype users cannot send or receive actual money
 
-
-## License
-[MIT License](https://github.com/tejasbadone/budgeto/blob/main/LICENSE)
 
