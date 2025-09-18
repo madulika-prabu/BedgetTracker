@@ -31,30 +31,6 @@ Budgeto features user email authentication, which adds an extra layer of securit
 - Automatic monthly deduction of required amounts for emergency funds and car plan
 
 
-
-## GIF
-
-- **Add Funds**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/add%20funds.gif?raw=true)
-
-___________________________________________________________________
-
-
-- **Need Category Autopay**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/need%20autopay.gif?raw=true)
-
-___________________________________________________________________
-
-
-- **Need Direct Pay**
-
-![](https://github.com/tejasbadone/budgeto/blob/main/assets/images/screenshots/gif/need%20pay.gif?raw=true)
-
-
-
-
 ## Setup
 
 Run the following commands from your terminal:
